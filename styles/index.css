@@ -1,0 +1,21 @@
+#daysAndNav{
+    display:flex;
+    justify-content: space-around;
+}
+
+#daysAndNav > .daybox {
+    border-style: solid;
+
+}
+
+#daysAndNav > .daybox > .dayname{
+    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 700px;
+    font-size: large;
+    font-weight: bold;
+    padding:60px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-style: solid;
+}
